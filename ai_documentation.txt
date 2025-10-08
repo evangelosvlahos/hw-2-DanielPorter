@@ -1,0 +1,7 @@
+I used ChatGPT to help me understand the "A working ligo Conda environment" portion of the instructions: 
+
+"Attached is a Jupyter notebook containing instructions for an assignment. Read through the 'A working ligo Conda environment' section, and re-explain the instructions."
+
+"I need help to understand what I am being asked to do for that part. Can you help?" <- I was referring to a screenshot of the instructions for the part about generating a binder badge, since I initially couldn't find it on the website when I entered in the repo/file names. 
+
+
